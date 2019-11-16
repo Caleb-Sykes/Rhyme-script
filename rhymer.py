@@ -1,6 +1,7 @@
 import sys
 
 # Author: Caleb Sykes / Date: 16/11/2019
+# the good rhymes are always at the top to middle; the bottom arent so good
 
 vowels = ['a','e','i','o','u']
 word = str(sys.argv[1])
